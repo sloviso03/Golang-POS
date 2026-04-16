@@ -20,3 +20,7 @@ Go POS project is licensed under the [MIT License](LICENSE), providing an open a
 - [Hexagonal Architecture](https://alistair.cockburn.us/hexagonal-architecture/) by Alistair Cockburn
 - [Ready for changes with Hexagonal Architecture](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749) by Netflix Technology Blog
 - [Hexagonal Architecture in Go](https://medium.com/@matiasvarela/hexagonal-architecture-in-go-cfd4e436faa3) by Matias Varela
+
+
+## Resources I used for coding this [In order]
+- [Go Web Service with Gin](https://go.dev/doc/tutorial/web-service-gin#create_folder) Go Docs
